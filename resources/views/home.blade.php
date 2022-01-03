@@ -11,24 +11,24 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="promo1.jpg" class="d-block w-100" alt="keypora" height="920px">
+            <img src="{{ ('img/promo1.jpg') }}" class="d-block w-100" alt="keypora" height="920px">
             <div class="carousel-caption d-none d-md-block">
-              <h5>Kerja keypora</h5>
-              <p>Indonesia Independece Day limited edition! only 17 pcs</p>
+              <h5>title</h5>
+              <p>loren ipsum</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="promo2.jpg" class="d-block w-100" alt="sirius" height="920px">
+            <img src="{{ ('img/promo2.jpg') }}" class="d-block w-100" alt="sirius" height="920px" >
             <div class="carousel-caption d-none d-md-block">
-              <h5>Espada Keypora</h5>
-              <p>Buy for $99</p>
+              <h5>title</h5>
+              <p>loren ipsum</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="promo3.jpg" class="d-block w-100" alt="voidwalker" height="920px">
+            <img src="{{ ('img/promo3.jpg') }}" class="d-block w-100" alt="voidwalker" height="920px">
             <div class="carousel-caption d-none d-md-block">
-              <h5>No-face Belooga</h5>
-              <p>Buy for $99</p>
+              <h5>title</h5>
+              <p>loren ipsum</p>
             </div>
           </div>
         </div>
