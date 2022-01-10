@@ -1,0 +1,28 @@
+Tabel:
+1. User
+    - Id User
+    - Username
+    - Password
+2. Membership
+    - Id Membership
+    - Id User
+    - Nama Lengkap
+    - Alamat
+    - Kota
+3. Kategori Diskon
+    - Id Kategori
+    - Nama Kategori
+4. Data Diskon
+    - Id Diskon
+    - Id Kategori
+    - Nama Diskon
+    - Gambar
+5. Lokasi Diskon
+    - Id Diskon
+    - Kota
+5. Review Diskon
+    - Id Review
+    - Id Diskon
+    - Id Membership
+    - Isi Review
+    - timestamp (created_at & updated_at)
